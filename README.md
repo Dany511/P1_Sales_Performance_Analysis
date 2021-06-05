@@ -21,7 +21,7 @@ Within this file you will find the following fields:
       Field                   Description
 
 
-      Row ID	                Observation Index
+      Row ID	            Observation Index
 
       Order ID  	            Unique Order ID of a product
 
@@ -29,37 +29,57 @@ Within this file you will find the following fields:
 
       Ship Date               Shipment Date of the placed order
 
-      Ship mode	              Shipment mode of the placed order
+      Ship mode	            Shipment mode of the placed order
       
       Customer ID	            Unique Customer ID
       
-      Customer Name	          Name of the Customer
+      Customer Name	      Name of the Customer
       
-      Segment	Product         Segment (i.e.HomeOffice/Corporate/Consumer etc.)
+      Segment	            Product Segment (i.e.HomeOffice/Corporate/Consumer etc.)
 
-      Country	                Unique Country Name
+      Country	            Unique Country Name
 
       City	                  Unique City Name
       
       State      	            Unique State Name
      
-      Postal                  Code	Area wise Postal code
+      Postal                  Code Area wise Postal code
      
-      Region	                Especially the part of a country
+      Region	            Especially the part of a country
       
-      Product ID     	        Unique Id respective to Product
+      Product ID     	      Unique Id respective to Product
       
-      Category           	    Product category
+      Category           	Product category
       
-      Sub-Category	          Product Subcategory
+      Sub-Category	      Product Subcategory
       
-      Product Name	          Unique Product Name
+      Product Name	      Unique Product Name
       
       Sales	                  Sales Amount
       
-      Quantity	              The amount or number of a material
+      Quantity	            The amount or number of a material
       
-      Discount	              A deduction from the usual cost of something
+      Discount	            A deduction from the usual cost of something
       
-      Profit	                Obtain a financial advantage or benefit
+      Profit	            Obtain a financial advantage or benefit
+      
+      
+# Sales-Target will cover the target data;
+
+
+Within this file you will find the following fields:
+
+      Field                    Description
+      
+      
+     Category	             Product category
+
+     No. of Records	       Unique Record
+
+     Order Date	             Order Placement Date
+
+     Sales Target	             Targeted Sales to be achieved 
+
+     Segment	             Product Segment (i.e.HomeOffice/Corporate/Consumer etc.)
+ 
 

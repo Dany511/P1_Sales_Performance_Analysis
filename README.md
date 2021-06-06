@@ -81,5 +81,14 @@ Within this file you will find the following fields:
      Sales Target	             Targeted Sales to be achieved 
 
      Segment	             Product Segment (i.e.HomeOffice/Corporate/Consumer etc.)
+     
+    
+# Tools Used:
+
+• Tableau 10 Desktop
+
+
+`You can directly see the dashboard on Tableau Public Server.` [Click Here](https://public.tableau.com/app/profile/dany.cornelius.chitturi/viz/SalesPerformancevsTarget_16219479673750/Dashboard1)
+
  
 
